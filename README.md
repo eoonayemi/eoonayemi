@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](https://i.ibb.co/fSVKj00/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Onayemi Emmanuel Oluwagbogo</h1>
 <h3 align="center">A passionate and experienced web developer from Nigeria</h3>
 
