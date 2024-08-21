@@ -1,6 +1,7 @@
-![Header](https://i.imghippo.com/files/TX8yP1724242570.png)
+![MasterHead](https://i.imghippo.com/files/TX8yP1724242570.png)
 <h1 align="center">Hi 👋, I'm Onayemi Emmanuel Oluwagbogo</h1>
 <h3 align="center">A passionate and experienced web developer from Nigeria</h3>
+<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eoonayemi&label=Profile%20views&color=0e75b6&style=flat" alt="eoonayemi" /> </p>
 
