@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eoonayemi?tab=repositories](https://github.com/eoonayemi?tab=repositories)
 
-- 💬 Ask me about **JavaScript, TypeScript and React**
+- 💬 Ask me about **JavaScript, TypeScript, React and Solidity**
 
 - 📫 How to reach me **eoonayemi@gmail.com**
 
