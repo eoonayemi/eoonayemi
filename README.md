@@ -44,7 +44,7 @@
 
 ### 1. [Gameland](https://gameland-pi.vercel.app)
 
-<img align="right" alt="Coding" width="500" src="https://i.imghippo.com/files/iPQM9936z.png" />
+<img align="left" alt="Coding" width="500" src="https://i.imghippo.com/files/iPQM9936z.png" />
 
 **Description:** Brief description of the project explaining what it does.
 
