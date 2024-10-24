@@ -49,7 +49,8 @@
 **Description:** ***GameLand*** is a dynamic NFT marketplace and autobattler game where users can buy, sell, and trade unique digital assets while exploring a magical world, collecting powerful artifacts, and battling mystical creatures to earn rewards.
 
 **Tech Stack**
-- React, NextJS, Framer Motion
+
+React, NextJS, Framer Motion
 
 **Links**
 - [Demo](https://gameland-pi.vercel.app)
@@ -60,8 +61,10 @@
 <img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/KdfYZ1724258037.png" style="margin-bottom: 20px;" />
 
 **Description:** ***DecentraCrowd*** is a web3 blockchain app on which campaigns can be published to raise funds for personal needs or projects from the donators available on the platform.
+
 **Tech Stack**
-- React, Solidity, Hardhat, Thirdweb
+
+React, Solidity, Hardhat, Thirdweb
 
 **Links**
 - [Demo](https://decentra-crowd.vercel.app)
