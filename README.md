@@ -1,6 +1,6 @@
-[![MasterHead](https://i.imghippo.com/files/plZjl1724243696.png)](https://x.com/EmmanuelOnayemi)
+[![MasterHead](https://i.imghippo.com/files/IPR9211Clw.png)](https://linkedin.com/in/eoonayemi)
 <h1 align="center">Hi 👋, I'm Onayemi Emmanuel Oluwagbogo</h1>
-<h3 align="center">A passionate and experienced web developer from Nigeria</h3>
+<h3 align="center">Web & Web3 Developer | MERN Stack | Smart Contracts | React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eoonayemi&label=Profile%20views&color=0e75b6&style=flat" alt="eoonayemi" /> </p>
 
