@@ -42,20 +42,19 @@
 
 ## Projects
 
-### 1. [Project Title](https://project-demo-link.com)
+### 1. [Gameland](https://gameland-pi.vercel.app)
 
-![Project Banner](https://link-to-screenshot.png)
+![Project Banner](https://i.imghippo.com/files/iPQM9936z.png)
 
 **Description:** Brief description of the project explaining what it does.
 
 **Tech Stack:**
 - React
-- Node.js
-- MongoDB
-- Express.js
+- NextJS
+- Framer Motion
 
 **Links:**
-- [Demo](https://project-demo-link.com)
-- [GitHub Repo](https://github.com/eoonayemi/project-repo)
+- [Demo](https://gameland-pi.vercel.app)
+- [GitHub Repo](https://github.com/eoonayemi/gameland)
 
 
