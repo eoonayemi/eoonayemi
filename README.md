@@ -10,11 +10,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on [Gameland](gameland-pi.vercel.app)
+- 🔭 I’m currently working on [Gameland](https://gameland-pi.vercel.app)
 
 - 🌱 I’m currently learning **NextJS and React Native**
 
-- 👯 I’m looking to collaborate on [Zetba](github.com/eoonayemi/zetba)
+- 👯 I’m looking to collaborate on [Zetba](https://github.com/eoonayemi/zetba)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eoonayemi?tab=repositories](https://github.com/eoonayemi?tab=repositories)
 
