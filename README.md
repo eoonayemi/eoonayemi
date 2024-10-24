@@ -42,19 +42,17 @@
 
 ## Projects
 
-### 1. [Gameland](https://gameland-pi.vercel.app)
+#### 1. [Gameland](https://gameland-pi.vercel.app)
 
-<img align="left" alt="Coding" width="500" src="https://i.imghippo.com/files/iPQM9936z.png" />
+<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/iPQM9936z.png" style="margin-bottom: 20px;" />
 
-**Description:** Brief description of the project explaining what it does.
+**Description:** ***GameLand*** is a dynamic NFT marketplace and autobattler game where users can buy, sell, and trade unique digital assets while exploring a magical world, collecting powerful artifacts, and battling mystical creatures to earn rewards.
 
-**Tech Stack:**
-- React
-- NextJS
-- Framer Motion
+**Tech Stack**
+- React, NextJS, Framer Motion
 
-**Links:**
+**Links**
 - [Demo](https://gameland-pi.vercel.app)
-- [GitHub Repo](https://github.com/eoonayemi/gameland)
+- [Source Code](https://github.com/eoonayemi/gameland)
 
 
