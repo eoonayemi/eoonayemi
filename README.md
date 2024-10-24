@@ -55,4 +55,15 @@
 - [Demo](https://gameland-pi.vercel.app)
 - [Source Code](https://github.com/eoonayemi/gameland)
 
+#### 2. [DecentraCrowd](https://gameland-pi.vercel.app)
+
+<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/KdfYZ1724258037.png" style="margin-bottom: 20px;" />
+
+**Description:** ***DecentraCrowd*** is a web3 blockchain app on which campaigns can be published to raise funds for personal needs or projects from the donators available on the platform.
+**Tech Stack**
+- React, Solidity, Hardhat, Thirdweb
+
+**Links**
+- [Demo](https://decentra-crowd.vercel.app)
+- [Source Code](https://github.com/eoonayemi/web3-crowdfunding-app)
 
