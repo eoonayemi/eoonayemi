@@ -42,9 +42,9 @@
 
 ## Projects
 
-#### 1. [Gameland](https://gameland-pi.vercel.app)
+#### 1. Gameland
 
-<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/iPQM9936z.png" style="margin-bottom: 20px;" />
+[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/iPQM9936z.png" style="margin-bottom: 20px;" />](https://gameland-pi.vercel.app)
 
 **Description:** ***GameLand*** is a dynamic NFT marketplace and autobattler game where users can buy, sell, and trade unique digital assets while exploring a magical world, collecting powerful artifacts, and battling mystical creatures to earn rewards.
 
@@ -56,9 +56,9 @@ React, NextJS, Framer Motion
 - [Demo](https://gameland-pi.vercel.app)
 - [Source Code](https://github.com/eoonayemi/gameland)
 
-#### 2. [DecentraCrowd](https://gameland-pi.vercel.app)
+#### 2. DecentraCrowd
 
-<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/KdfYZ1724258037.png" style="margin-bottom: 20px;" />
+[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/KdfYZ1724258037.png" style="margin-bottom: 20px;" />](https://decentra-crowd.vercel.app)
 
 **Description:** ***DecentraCrowd*** is a web3 blockchain app on which campaigns can be published to raise funds for personal needs or projects from the donators available on the platform.
 
