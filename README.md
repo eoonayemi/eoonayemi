@@ -68,9 +68,23 @@ React, Express, MongoDB, NodeJS, Vite
 
 **Links**
 - [Demo](https://jelman-bookings.vercel.app)
-- [Source Code](https://github.com/eoonayemi/jelam-bookings)
+- [Source Code](https://github.com/eoonayemi/jelman-bookings)
 
-#### 3. DecentraCrowd
+#### 3. WalterInvests
+
+[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/ayRX3245Se.png" style="margin-bottom: 20px;" />](https://walter-invests.onrender.com)
+
+**Description:** ***WalterInvests** is a mini-investment app with admin dashboard and CRM
+
+**Tech Stack**
+
+React, Express, MongoDB, NodeJS, Vite
+
+**Links**
+- [Demo](https://walter-invests.onrender.com)
+- [Source Code](https://github.com/eoonayemi/walter-invests)
+
+#### 4. DecentraCrowd
 
 [<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/KdfYZ1724258037.png" style="margin-bottom: 20px;" />](https://decentra-crowd.vercel.app)
 
