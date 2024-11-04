@@ -74,7 +74,7 @@ React, Express, MongoDB, NodeJS, Vite
 
 [<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/ayRX3245Se.png" style="margin-bottom: 20px;" />](https://walter-invests.onrender.com)
 
-**Description:** ***WalterInvests** is a mini-investment app with admin dashboard and CRM
+**Description:** ***WalterInvests*** is a mini-investment app with admin dashboard and CRM
 
 **Tech Stack**
 
@@ -97,5 +97,19 @@ React, Solidity, Hardhat, Thirdweb
 **Links**
 - [Demo](https://decentra-crowd.vercel.app)
 - [Source Code](https://github.com/eoonayemi/web3-crowdfunding-app)
+
+#### 4. MyAmtApp
+
+[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/GEN5273nns.png" style="margin-bottom: 20px;" />](https://myamtapp.vercel.app)
+
+**Description:** ***MyAmtApp*** is a VTU app I'm building for a client
+**Tech Stack**
+
+React, Express, SQL, NodeJS
+
+**Links**
+- [Demo](https://myamtapp.vercel.app)
+
+
 
 
