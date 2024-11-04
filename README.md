@@ -56,7 +56,21 @@ React, NextJS, Framer Motion
 - [Demo](https://gameland-pi.vercel.app)
 - [Source Code](https://github.com/eoonayemi/gameland)
 
-#### 2. DecentraCrowd
+#### 2. JelmanBookings
+
+[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/VZP4283qWI.png" style="margin-bottom: 20px;" />](https://jelman-bookings.vercel.app)
+
+**Description:** ***JelmanBookings*** is a fullstack hotel-booking application where hotel or house owners can publish their hotels or houses information with images and prices at which it can be booked for with in specified period of time. So, travellers or users in need of an accomodation can seemlessly booked for any of these apartments or hotels to reside in for the required time.
+
+**Tech Stack**
+
+React, Express, MongoDB, NodeJS, Vite
+
+**Links**
+- [Demo](https://jelman-bookings.vercel.app)
+- [Source Code](https://github.com/eoonayemi/jelam-bookings)
+
+#### 3. DecentraCrowd
 
 [<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/KdfYZ1724258037.png" style="margin-bottom: 20px;" />](https://decentra-crowd.vercel.app)
 
@@ -69,4 +83,5 @@ React, Solidity, Hardhat, Thirdweb
 **Links**
 - [Demo](https://decentra-crowd.vercel.app)
 - [Source Code](https://github.com/eoonayemi/web3-crowdfunding-app)
+
 
