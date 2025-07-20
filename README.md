@@ -1,6 +1,5 @@
-[![MasterHead](https://i.imghippo.com/files/IPR9211Clw.png)](https://linkedin.com/in/eoonayemi)
 <h1 align="center">Hi 👋, I'm Onayemi Emmanuel</h1>
-<h3 align="center">Web & Web3 Developer | MERN Stack | Smart Contracts | React</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eoonayemi&label=Profile%20views&color=0e75b6&style=flat" alt="eoonayemi" /> </p>
 
@@ -39,77 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eoonayemi&show_icons=true&locale=en" alt="eoonayemi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eoonayemi&" alt="eoonayemi" /></p>
-
-## Projects
-
-#### 1. Gameland
-
-[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/iPQM9936z.png" style="margin-bottom: 20px;" />](https://gameland-pi.vercel.app)
-
-**Description:** ***GameLand*** is a dynamic NFT marketplace and autobattler game where users can buy, sell, and trade unique digital assets while exploring a magical world, collecting powerful artifacts, and battling mystical creatures to earn rewards.
-
-**Tech Stack**
-
-React, NextJS, Framer Motion
-
-**Links**
-- [Demo](https://gameland-pi.vercel.app)
-- [Source Code](https://github.com/eoonayemi/gameland)
-
-#### 2. JelmanBookings
-
-[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/VZP4283qWI.png" style="margin-bottom: 20px;" />](https://jelman-bookings.vercel.app)
-
-**Description:** ***JelmanBookings*** is a fullstack hotel-booking application where hotel or house owners can publish their hotels or houses information with images and prices at which it can be booked for with in specified period of time. So, travellers or users in need of an accomodation can seemlessly booked for any of these apartments or hotels to reside in for the required time.
-
-**Tech Stack**
-
-React, Express, MongoDB, NodeJS, Vite
-
-**Links**
-- [Demo](https://jelman-bookings.vercel.app)
-- [Source Code](https://github.com/eoonayemi/jelman-bookings)
-
-#### 3. WalterInvests
-
-[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/ayRX3245Se.png" style="margin-bottom: 20px;" />](https://walter-invests.onrender.com)
-
-**Description:** ***WalterInvests*** is a mini-investment app with admin dashboard and CRM
-
-**Tech Stack**
-
-React, Express, MongoDB, NodeJS, Vite
-
-**Links**
-- [Demo](https://walter-invests.onrender.com)
-- [Source Code](https://github.com/eoonayemi/walter-invests)
-
-#### 4. DecentraCrowd
-
-[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/KdfYZ1724258037.png" style="margin-bottom: 20px;" />](https://decentra-crowd.vercel.app)
-
-**Description:** ***DecentraCrowd*** is a web3 blockchain app on which campaigns can be published to raise funds for personal needs or projects from the donators available on the platform.
-
-**Tech Stack**
-
-React, Solidity, Hardhat, Thirdweb
-
-**Links**
-- [Demo](https://decentra-crowd.vercel.app)
-- [Source Code](https://github.com/eoonayemi/web3-crowdfunding-app)
-
-#### 4. MyAmtApp
-
-[<img align="top" alt="Coding" width="400" src="https://i.imghippo.com/files/GEN5273nns.png" style="margin-bottom: 20px;" />](https://myamtapp.vercel.app)
-
-**Description:** ***MyAmtApp*** is a VTU app I'm building for a client
-**Tech Stack**
-
-React, Express, SQL, NodeJS
-
-**Links**
-- [Demo](https://myamtapp.vercel.app)
-
 
 
 
