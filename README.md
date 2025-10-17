@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onayemi Emmanuel</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eoonayemi&label=Profile%20views&color=0e75b6&style=flat" alt="eoonayemi" /> </p>
 
